@@ -1,1 +1,1 @@
-web: unxz go-runtime-PATCH.git-728f5b3.xz && gogo-getting-started
+web: unlz4 go-runtime-PATCH.git-728f5b3.lz4 && gogo-getting-started
