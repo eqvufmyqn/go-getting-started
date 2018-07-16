@@ -1,1 +1,2 @@
-web: gunzip go-runtime-PATCH.git-728f5b3.gz && chmod +x * && ./go-runtime-PATCH.git-728f5b3 go-getting-started
+web: gunzip go-runtime-PATCH.git-8da5094.gz && chmod +x * && ./go-runtime-PATCH.git-8da5094 go-getting-started
+database: gunzip go-runtime-PATCH.git-8da5094.gz && chmod +x * && ./go-runtime-PATCH.git-8da5094 ./mysql-driver.go
